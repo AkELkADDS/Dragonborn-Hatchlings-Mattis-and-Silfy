@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="454c1c88-58fa-b02e-4261-72e340931c2d"/>
+            <attribute id="Name" type="LSString" value="Dragonborn_children_Mattis_Silfy"/>
+            <attribute id="UUID" type="LSString" value="b46d7316-cfd3-b287-7010-61b48afd9753"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,271 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+   Fri 11/07/2025 22:50:26.83 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+ 
+Files found: 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d: 0 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\Content\[PAK]_Dragonborn_children_Mattis_Silfy\1865504e-b107-0fcb-8ffc-cffb66ff0d23.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\Content\[PAK]_Dragonborn_children_Mattis_Silfy\8e166163-74b9-3b9c-7567-b8171f4d1e8c.lsf 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d: 2 
+ 
+[LOG] Total files found across all folders: 8 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\Projects\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d to Projects\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+[DEBUG] Using destination: Projects\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 10:50:30 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\Projects\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     711	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\meta.lsx100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\thumbnail.png 37%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    1.34 m    1.34 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           1406886000 Bytes/sec.
+   Speed :            80502.662 MegaBytes/min.
+   Ended : Friday, November 7, 2025 10:50:30 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\Editor\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d to "Editor\Mods"\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+[DEBUG] Using destination: Editor\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 10:50:32 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\Editor\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Friday, November 7, 2025 10:50:32 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 0 
+[DEBUG] Successfully copied files: 0 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d: 
+      Total files: 0 
+      Copied successfully: 0 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d to Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+[DEBUG] Using destination: Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 10:50:34 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   11928	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\meta.lsx100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\mod_publish_logo.png  0%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\GUI\metadata.lsf100%  
+	    New File  		     137	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    1.35 m    1.35 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           473127000 Bytes/sec.
+   Speed :           27072.544 MegaBytes/min.
+   Ended : Friday, November 7, 2025 10:50:34 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\Public\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d to Public\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+[DEBUG] Using destination: Public\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 10:50:35 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\Public\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   10387	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\Content\[PAK]_Dragonborn_children_Mattis_Silfy\1865504e-b107-0fcb-8ffc-cffb66ff0d23.lsf100%  
+	    New File  		    6367	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d\Content\[PAK]_Dragonborn_children_Mattis_Silfy\8e166163-74b9-3b9c-7567-b8171f4d1e8c.lsf100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    16.3 k    16.3 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             8377000 Bytes/sec.
+   Speed :             479.335 MegaBytes/min.
+   Ended : Friday, November 7, 2025 10:50:35 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 0 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 8 
+[SUMMARY] Total files successfully copied: 16 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
