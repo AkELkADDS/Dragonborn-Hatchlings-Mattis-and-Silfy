@@ -8,7 +8,7 @@ set -e
 # --- CONFIGURATION ---
 
 # Set this to your mod's folder name (as it appears in BG3's project directories)
-MOD_SUBDIR_NAME="DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a"
+MOD_SUBDIR_NAME="Dragonborn_children_Mattis_Silfy_454c1c88-58fa-b02e-4261-72e340931c2d"
 
 # Path to the Baldur’s Gate 3 Data directory (can be adjusted if needed)
 BG3_DATA="E:/El/Games/Steam/steamapps/common/Baldurs Gate 3/Data"
